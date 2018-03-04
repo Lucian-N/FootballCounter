@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootballCounter</string>
+    <string name="goal">Goal!</string>
+    <string name="team_b">Team B</string>
+    <string name="red_card">Red Card</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="starting_score">0</string>
+    <string name="team_a">Team A</string>
+    <string name="reset">Reset</string>
+</resources>
